@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.ganesh.flightManagementSystem.FlightmanagementsystemApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.024 s - in com.ganesh.flightManagementSystem.FlightmanagementsystemApplicationTests
