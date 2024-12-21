@@ -67,12 +67,21 @@ In the future, I would focus more on optimizing performance, especially for high
 
 6. **Real-Time Updates:**
    - The system offers real-time availability and flight status updates, ensuring customers have up-to-date information for their booking decisions.
+ ![image](https://github.com/user-attachments/assets/7520a6d4-1c67-4e18-ae1e-efebc8c2feee)
+ ![image](https://github.com/user-attachments/assets/3b054eae-bd4e-48aa-8879-31e39c000d29)
+
 ![image](https://github.com/user-attachments/assets/0dd58d2e-a9df-4774-b34a-29ab46561db5)
+  -![image](https://github.com/user-attachments/assets/b1b670d4-aa7f-42e3-b846-273f70ef5e90)
+  -![image](https://github.com/user-attachments/assets/cd8eb3fe-57e1-4a0f-ae1e-16b12831b49f)
+  -![image](https://github.com/user-attachments/assets/38ca82b7-f7e0-4618-aa4b-a1c5a43bd2f6)
   -![image](https://github.com/user-attachments/assets/9246a8db-476d-410b-bc92-f35db8f2481c)
+  -![image](https://github.com/user-attachments/assets/62df6ab0-94a7-4931-af6d-94475a36980b)
   -![image](https://github.com/user-attachments/assets/619c1af3-6a72-4fa6-9193-fe732b47ee9e)
 ![Screenshot 2024-12-21 221356](https://github.com/user-attachments/assets/d0798445-8235-40c4-b19f-8cc1e4eb838b)
-  -![image](https://github.com/user-attachments/assets/41d3d5e6-2109-407b-b22a-e0f5faed01e9)
   -![image](https://github.com/user-attachments/assets/16db1600-a603-4a53-92d5-8cc6de05a7d8)
-  -![image](https://github.com/user-attachments/assets/058e0604-f381-4777-96e0-61ababcdcec8)
-  ![image](https://github.com/user-attachments/assets/dffbbcee-73d5-4e86-842a-29d35f4517bf)
+  -![image](https://github.com/user-attachments/assets/cf4c8f72-58e9-463f-96f3-4315f539c7e4)
+  -![image](https://github.com/user-attachments/assets/e9b6ee51-ee9d-4bbe-b9ee-a6c52866351b)
+  -![image](https://github.com/user-attachments/assets/c818822e-3499-4d0a-857d-d77c9278ab79)
+  -![image](https://github.com/user-attachments/assets/b23e0c30-2f62-47f8-899d-a45da92409a2)
+
 
