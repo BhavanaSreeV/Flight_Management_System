@@ -67,3 +67,6 @@ In the future, I would focus more on optimizing performance, especially for high
 
 6. **Real-Time Updates:**
    - The system offers real-time availability and flight status updates, ensuring customers have up-to-date information for their booking decisions.
+
+![image](https://github.com/user-attachments/assets/dffbbcee-73d5-4e86-842a-29d35f4517bf)
+
